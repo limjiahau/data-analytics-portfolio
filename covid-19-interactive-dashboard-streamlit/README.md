@@ -1,4 +1,4 @@
-# Covid-19 Dashboard with Streamlit
+# Covid-19 Interactive Dashboard with Streamlit
 
 ## Datasets:
 https://github.com/nytimes/covid-19-data
