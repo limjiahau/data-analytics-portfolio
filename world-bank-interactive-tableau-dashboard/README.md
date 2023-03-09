@@ -3,7 +3,7 @@
 Tableau Dashboard:
 https://public.tableau.com/app/profile/lim.jia.hau/viz/WorldBankTableauDashboard_16783306360200/Dashboard1
 
-- Scrapped data World Bank’s open data using World Bank API
+- Scrapped data from World Bank’s open data source using World Bank API
 (https://data.worldbank.org/)
 
 - Conducted exploratory data analysis and data cleaning with Python
