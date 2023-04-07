@@ -1,5 +1,8 @@
 # NYC Taxi Analysis
 
+Click on this link to view the project.
+https://htmlpreview.github.io/?https://github.com/limjiahau/data-analytics-portfolio/blob/main/NYC_Taxi_Analysis/nyc_taxi.html
+
 ## Description of all the variables / features: 
 id — a unique identifier for each trip
 
