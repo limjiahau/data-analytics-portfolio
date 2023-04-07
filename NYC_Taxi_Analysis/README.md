@@ -42,5 +42,3 @@ Build new features:
 - Create heatmap of speed over the week for hours
 - Create a new feature "work", based on busy hours
 - Explore trips to airport, long day trips, zero distance trips
-
-file:///D:/Data%20Science%20Projects/CSC_Internship/R_Code/NYC_Taxi_Analysis/nyc_taxi.html
